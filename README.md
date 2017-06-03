@@ -1,3 +1,4 @@
 # NSAC
-# 数值模拟与计算
-This respository will record my code which is related with Numerical Calculation
+# Numerical Simulation and Calculation
+
+This respository will keep track of my study and work
